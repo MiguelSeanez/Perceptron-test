@@ -25,7 +25,6 @@ namespace Perceptron
         Point[] points = new Point[1000];
         Point[] weights = new Point [1000];
         int[] clase = new int[1000];
-        int sad;
         
         public Form1()
         {
