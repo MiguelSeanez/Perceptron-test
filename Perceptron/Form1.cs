@@ -103,7 +103,7 @@ namespace Perceptron
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            //migue huele a culo
             if (radioButtonCirculo.Checked)
             {
                 p.X = pictureBox1.PointToClient(Cursor.Position).X;
